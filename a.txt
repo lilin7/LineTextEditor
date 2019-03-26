@@ -1,0 +1,16 @@
+1 Do not pass objects to functions by value;
+2 if the objects handle dynamic memory (i.e., heap memory)
+3 do not ever pass objects to functions by value;
+4 instead pass by reference, or even better, pass by const reference. 
+5But if you must pass an object by value, 
+6make sure that the class of that object defines 
+7a copy constructor, 
+8a copy assignment operator, 
+9and a destructor. 
+10That's called "the rule of three", or "the big three",
+11and is emphasized in the C++ literature over and over and over again!
+12To optimize performance, C++11 introduced
+13move constructor,  and 
+14move assignment operator.
+15As a result, we must now follow "the rule of five" in C++. 
+16There are 16 lines in this file.
