@@ -1,7 +1,5 @@
 /*
-* Assignment 2
-* Student Name: Lin Li
-* Student ID: 40044486
+* Lin Li
 */
 
 This program uses 4 classes (Command.h, Command.cpp, Led.h, Led.cpp) and a driver.cpp file to promote user input to interact with a txt file if exists, create one if doesn't exist.
