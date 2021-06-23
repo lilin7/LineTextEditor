@@ -4,7 +4,7 @@
 *			It takes the information passed by an instance of Command class, and operate in the buffer.
 *			Continue for asking user input until user choose to quit.
 *			Promote user to save back to file when quitting.
-* @author: Lin Li 40044486
+* @author: Lin Li
 * @version: 1.0
 * @date: Jun 25, 2018
 */
