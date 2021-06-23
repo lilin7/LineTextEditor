@@ -1,7 +1,7 @@
 /*
 * @ClassName: Command.cpp
 * @Function: Class to process user input (command line)
-* @author: Lin Li 40044486
+* @author: Lin Li 
 * @version: 1.0
 * @date: Jun 25, 2018
 */
