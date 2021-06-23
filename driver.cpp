@@ -1,7 +1,7 @@
 /*
 * @ClassName: Command.h
 * @Function: Driver program to test the Led class implemented in assignment 2
-* @author: Lin Li 40044486
+* @author: Lin Li
 * @version: 1.0
 * @date: Jun 25, 2018
 */
